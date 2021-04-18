@@ -22,13 +22,21 @@ O código atual está subdivido em quatro pastas:
 • Src: Contém as outras implementações utilizadas no código, além do arquivo “main.cpp”, sendo este o arquivo base do programa.
 
 As configurações de hardware e software usados para o desenvolvimento do programa são os seguintes:
+
     • Sistema Operacional: Windows 10 Home Single Language 
+    
     • Processador: Intel® Core™ i7-7700HQ CPU @ 2.80GHz 2.81GHz
+    
     • Placa de Vídeo: NVIDIA GTX 1050ti 4GB VRAM
+    
     • Memória: 16GB RAM DDR4
+    
     • Memória física: SSD M.2 240GB Leituras: 1.500MB/s e Gravações: 800MB/s 
+    
     • Linguagem: C/C++
+    
     • Compilador: Visual Studio Code + MinGW
+    
 
 Para a implementação desse programa foram utilizados vários tipos de estruturas de dados e funções, elas estão contidas no arquivo “Robo.h”, o funcionamento delas será explicado abaixo
 .
