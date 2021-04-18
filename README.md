@@ -63,9 +63,9 @@ Para a implementação desse programa foram utilizados vários tipos de estrutur
 
 # Instruções de compilação e execução
 
-OBS1: As instruções dadas a seguir são para compilar o programa no sistema operacional Windows 10.
+**OBS1:** As instruções dadas a seguir são para compilar o programa no sistema operacional Windows 10.
 
-OBS2: No meu programa em específico, para manter uma organização e controle maior, preferi imprimir a saída dentro de um arquivo .txt que etá contido na pasta “bin”, ao invés de no terminal.
+**OBS2:** No meu programa em específico, para manter uma organização e controle maior, preferi imprimir a saída dentro de um arquivo .txt que etá contido na pasta “bin”, ao invés de no terminal.
 
 Para a execução do processo de compilação é necessário que navegue para a pasta em que o projeto está localizado. Primeiramente, caso seja feita alguma modificação dos arquivos .cpp ou .h é necessário refazer o Makefile do projeto, para isso é só executar no terminal o comando “make”. 
 
